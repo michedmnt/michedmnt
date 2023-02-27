@@ -1,13 +1,10 @@
  - I'm Michelle 💜   
 
-- 🌱 I’m a recent graduate from Juno College's Web Development Program
-
-- 🍁 I'm also an RCAF applicant with an ambition to become a Pilot
+Front-End Web Dev || 🍁 RCAF Applicant || 📍Toronto, ON || #cohort43 @junocollege
 
 -  ⚡ Find me on the web: 
- 
- <a href"https://www.instagram.com/michelledcodes/">Instagram</a>
- <a href"https://www.linkedin.com/in/michedmnt/">LinkedIn</a>
+Instagram/Twitter: @michelledcodes
+
 
 
 <!--
