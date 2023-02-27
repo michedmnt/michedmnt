@@ -1,4 +1,4 @@
-💜 I'm Michelle   
+ ### I'm Michelle 💜   
 
 - 🌱 I’m a recent graduate from Juno College's Web Development Program
 
