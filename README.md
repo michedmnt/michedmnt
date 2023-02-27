@@ -1,6 +1,6 @@
 I'm Michelle 💜   
 
-Front-End Web Dev || 🍁 RCAF Applicant || 📍Toronto, ON || #cohort43 @junocollege
+Front-End Developer || 🍁 RCAF Applicant || 📍Toronto, ON || #cohort43 @junocollege
 
 ⚡ Find me on the web: 
 Instagram/Twitter: @michelledcodes
