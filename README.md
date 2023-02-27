@@ -3,7 +3,9 @@ I'm Michelle 💜
 Front-End Developer || 🍁 RCAF Applicant || 📍Toronto, ON || #cohort43 @junocollege
 
 ⚡ Find me on the web: 
-Instagram: [@michelledcodes](https://www.instagram.com/michelledcodes/)
+ - Instagram: [@michelledcodes](https://www.instagram.com/michelledcodes/)
+ - Twitter: [@michelledcodes](https://twitter.com/michelledcodes)
+ - LinkedIn: [Michelle Dumont](linkedin.com/in/michedmnt/)
 
 
 
